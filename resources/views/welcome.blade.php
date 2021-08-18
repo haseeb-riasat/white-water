@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    White Water Backend Panel
+                    White Water Project
                 </div>
 
             </div>
